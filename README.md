@@ -15,5 +15,5 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Ejiro-Frances/loopstudios-landing-page-main.git)
-- Live Site URL: [Add live site URL here](https://ejiro-frances.github.io/loopstudios-landing-page-main/)
+- Solution URL: [View Solution here](https://github.com/Ejiro-Frances/loopstudios-landing-page-main.git)
+- Live Site URL: [View live site here](https://ejiro-frances.github.io/loopstudios-landing-page-main/)
