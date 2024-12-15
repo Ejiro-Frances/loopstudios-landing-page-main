@@ -45,6 +45,8 @@ a:active {
 /* styles begin */
 .bg-img-container {
   background-image: url("../images/desktop/image-hero.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
   min-height: 100vh;
   color: var(--white);
   padding: 6rem 10rem;
@@ -184,6 +186,10 @@ a:active {
   background: var(--black);
   color: var(--white);
   cursor: pointer;
+}
+.creation-btn:active {
+  transform: scale(98%);
+  background: var(--black);
 }
 .creation-btn-2 {
   display: none;
